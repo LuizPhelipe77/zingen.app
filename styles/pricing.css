@@ -5,6 +5,10 @@
         text-align: center;
     }
 
+    & header .strong {
+        color: var(--brand-color-primary);
+    }
+
     & .cards {
         margin-top: 2rem;
     }
